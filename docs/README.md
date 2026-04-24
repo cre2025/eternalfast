@@ -13,18 +13,12 @@ This directory is a public technical knowledge base for fastener standards, mate
 - `selection/`: Selection logic by industry and operating conditions
 - `faq/`: Common technical and sourcing questions
 
-## Suggested Article Template
+## Main Entry
 
-Each article should include:
+- [Knowledge Hub Home](./index.md)
 
-1. Application scenarios
-2. Critical parameters
-3. Common mistakes
-4. Related standards
-5. EternalFast support scope
+## Quick Links
 
-## Publishing Suggestions
-
-- Keep a steady update cadence (at least 2 posts per week)
-- Use English slugs in filenames for search indexing
-- Include core keywords naturally in the first paragraph
+- [Standards Index](./standards/index.md)
+- [Selection by Industry](./selection/by-industry.md)
+- [Fastener FAQ](./faq/fastener-faq.md)
