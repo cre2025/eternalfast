@@ -2,39 +2,39 @@
 
 ## Overview
 
-Material designations in this group follow the selected **standard type** (e.g. DIN, ISO, GB/T) where applicable. The layout below is the public reference format; concrete grades, limits, and test values are confirmed per inquiry and order.
-
-## Public datasheet format
-
-The following is the same presentation structure we use in technical and commercial documents. All fields in tables are placeholders—**not** sample data.
-
-**[Material name / grade]** —
-
-- **Alias:** —
-- **Major category:** —
-- **Category:** —
-- **Standard type:** (fill in, e.g. `DIN`)
-- **Standard source:** —
+Use the structure below for one material. Order of presentation: **material title → five metadata fields → rule line → chemical table → rule line → mechanical table**. Replace placeholder lines with project-specific content.
 
 ---
 
-## Chemical composition
+## [Material name / grade]
+
+- **Alias:** —
+- **Major Category:** —
+- **Category:** —
+- **Standard Type:** (e.g. `DIN`, `ISO`, `GB/T`)
+- **Standard Source:** —
+
+---
+
+### Chemical composition
 
 | Element | Value | Unit |
 |---------|--------|------|
 | — | — | — |
 
-*Composition limits depend on the selected grade, heat, and standard edition. Use the project material certificate and drawing for acceptance criteria.*
+*Composition limits depend on grade, heat, and standard edition. The mill certificate and drawing govern for acceptance.*
 
 ---
 
-## Mechanical property
+### Mechanical property
 
 | Mechanical property | Value |
 |---------------------|--------|
 | — | — |
 
-*Values depend on delivery condition, size, product form, and test direction. Refer to the applicable standard, order specification, and test reports.*
+*Values depend on delivery condition, size, product form, and test direction. Refer to the applicable standard, order, and test reports.*
+
+---
 
 ## EternalFast
 

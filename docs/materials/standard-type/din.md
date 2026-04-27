@@ -2,17 +2,19 @@
 
 ## Overview
 
-This category covers material designations that are aligned with **DIN**-related standards in the EternalFast material catalog. The two entries below are real catalog records shown in the same public datasheet order as the website and commercial documents. Always confirm values against the current standard edition, drawing, and mill certificate for production use.
+EternalFast material designations in this list follow **DIN**-related standards. Each block below is one catalog record, in the same order as a public material sheet: **title → metadata → chemical composition table → mechanical property table**. Always confirm with the current standard text, your drawing, and the mill / inspection certificate.
+
+---
 
 ## 20CrMoVTiB4-10
 
-**20CrMoVTiB4-10**
-
 - **Alias:** 1.7729
-- **Major category:** Steel
+- **Major Category:** Steel
 - **Category:** Steel
-- **Standard type:** DIN
-- **Standard source:** DIN EN 10269-2014
+- **Standard Type:** DIN
+- **Standard Source:** DIN EN 10269-2014/规定高温和或低温性能的紧固件用钢和镍合金
+
+---
 
 ### Chemical composition
 
@@ -34,19 +36,19 @@ This category covers material designations that are aligned with **DIN**-related
 | As | ≤0.020 | % |
 | Sn | ≤0.020 | % |
 
-*The limits above are as recorded in the material catalog. The official standard text and the mill / inspection certificate govern for production acceptance.*
+*The limits are as recorded in the material catalog. The official standard and the certificate govern for production acceptance.*
 
 ---
 
-Example: X39CrMo17-1 (DIN)
-
-**X39CrMo17-1**
+## X39CrMo17-1
 
 - **Alias:** 1.4122
-- **Major category:** Steel
+- **Major Category:** Steel
 - **Category:** Stainless steel
-- **Standard type:** DIN
-- **Standard source:** DIN EN 10088-3-2014
+- **Standard Type:** DIN
+- **Standard Source:** DIN EN 10088-3-2014/不锈钢 第3部分:一般用途耐腐蚀钢半成品、棒材、杆材、线材、型材和光亮产品的交货技术条件
+
+---
 
 ### Chemical composition
 
@@ -61,9 +63,10 @@ Example: X39CrMo17-1 (DIN)
 | Mo | 0.80~1.30 | % |
 | Ni | ≤1.00 | % |
 
-*The limits above are as recorded in the material catalog. The official standard text and the mill / inspection certificate govern for production acceptance.*
+*The limits are as recorded in the material catalog. The official standard and the certificate govern for production acceptance.*
 
 
+---
 
 ## EternalFast
 

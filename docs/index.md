@@ -6,12 +6,22 @@ This page is the main entry to standards, material guides, process references, a
 - Website: [https://eternalfast.com](https://eternalfast.com)
 - Focus keywords: fasteners, bolts, nuts, washers, custom fasteners, high-strength bolts, corrosion-resistant fasteners
 
+## Documentation map (high level)
+
+| Area | Role |
+|------|------|
+| [Hub](./index.md) (this file) | Entry, quick links, and orientation |
+| [Standards](./standards/index.md) | Standard numbers, cross-references, and interpretation |
+| [Materials](./materials/index.md) | Base materials, catalog layout by **standard type**, and topic guides |
+| [Process](./process/surface-treatment-and-salt-spray.md) | Heat treatment, platings, corrosion tests |
+| [Selection](./selection/by-industry.md) | By industry and scenario |
+| [FAQ](./faq/fastener-faq.md) | Common questions |
+
 ## Start Here
 
 - [Standards Index](./standards/index.md)
 - [DIN / ISO / ANSI Fastener Standards Quick Guide](./standards/din-iso-ansi-fastener-guide.md)
-- [Materials Index](./materials/index.md)
-- [Carbon Steel vs Stainless Steel Fasteners](./materials/carbon-steel-vs-stainless-steel.md)
+- [Materials (section index)](./materials/index.md)
 - [Fastener Surface Treatment and Salt Spray Basics](./process/surface-treatment-and-salt-spray.md)
 - [Fastener Selection Checklist](./selection/fastener-selection-checklist.md)
 - [Fastener Selection by Industry](./selection/by-industry.md)

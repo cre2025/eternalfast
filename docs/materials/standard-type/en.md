@@ -2,41 +2,41 @@
 
 ## Overview
 
-Material designations in this group follow **EN**-related requirements where applicable. The layout below is the public reference format; concrete grades, limits, and test values are confirmed per inquiry and order.
-
-## Public datasheet format
-
-The following is the same presentation structure we use in technical and commercial documents. All fields in tables are placeholders—**not** sample data.
-
-**[Material name / grade]** —
-
-- **Alias:** —
-- **Major category:** —
-- **Category:** —
-- **Standard type:** EN
-- **Standard source:** —
+Material designations in this group follow **EN**-related requirements where applicable. The block below is one **blank** public datasheet in the same order: title, metadata, chemical table, mechanical table. Replace placeholders; confirm by inquiry and order.
 
 ---
 
-## Chemical composition
+## [Material name / grade]
+
+- **Alias:** —
+- **Major Category:** —
+- **Category:** —
+- **Standard Type:** EN
+- **Standard Source:** —
+
+---
+
+### Chemical composition
 
 | Element | Value | Unit |
 |---------|--------|------|
 | — | — | — |
 
-*Composition limits depend on the selected grade, heat, and standard edition. Use the project material certificate and drawing for acceptance criteria.*
+*Composition limits depend on grade, heat, and standard edition. The mill certificate and drawing govern for acceptance.*
 
 ---
 
-## Mechanical property
+### Mechanical property
 
 | Mechanical property | Value |
 |---------------------|--------|
 | — | — |
 
-*Values depend on delivery condition, size, product form, and test direction. Refer to the applicable standard, order specification, and test reports.*
+*Values depend on delivery condition, size, product form, and test direction. Refer to the applicable standard, order, and test reports.*
+
+---
 
 ## EternalFast
 
-Wuxi EternalFast Metal Co., Ltd. provides material recommendations and full traceability documentation for standard and custom fastener projects.  
+Wuxi EternalFast Metal Co., Ltd. provides material recommendations and full traceability documentation for standard and custom fastener projects.
 Website: [https://eternalfast.com](https://eternalfast.com)

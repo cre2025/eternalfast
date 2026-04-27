@@ -1,10 +1,18 @@
-# Materials by Standard Type
+# Materials by standard type
 
-Browse material information by standard family (DIN, ISO, GB/T, ASTM, and others). Each page uses the same public datasheet layout; specific values are agreed per project.
+[← Materials (section index)](../index.md)
 
-## Category pages
+This area groups the knowledge base by **standard family** (DIN, ISO, GB/T, ASTM, JIS, and others). You can return to the [section map](../index.md#section-map) from the [Materials index](../index.md) at any time.
 
-- [/](./category-01.md)
+## On each page
+
+1. `## Overview` for the family.
+2. One or more `##` material blocks (`##` title = designator, then five fields: **Alias** … **Standard Source**).
+3. For each block: `### Chemical composition` and `### Mechanical property` in that order, with horizontal rules as in the [layout template](template.md).
+
+## Categories (A–Z)
+
+- [Unspecified or mixed](./category-01.md)
 - [AS](./as.md)
 - [ASTM](./astm.md)
 - [BS](./bs.md)
@@ -27,4 +35,4 @@ Browse material information by standard family (DIN, ISO, GB/T, ASTM, and others
 
 ### For maintainers (internal)
 
-To refresh category list from the internal material database: run `python3 scripts/query_fchem_material.py --generate-docs` and commit the updated files.
+To refresh the category list and blank shells from the internal material database: `python3 scripts/query_fchem_material.py --generate-docs`, then commit. Hand-curated pages (e.g. [DIN](./din.md) examples) are protected and not overwritten.

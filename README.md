@@ -16,13 +16,13 @@ Its purpose is to continuously publish high-quality technical content that impro
 
 ## Content Structure
 
-- [Knowledge Hub Home](docs/index.md) - main docs entry
-- [Standards](docs/standards/index.md) - fastener standards and equivalence references
-- [Materials Index](docs/materials/index.md) - database-driven material category entry
-- [Materials](docs/materials/carbon-steel-vs-stainless-steel.md) - material performance and guidance
-- [Process](docs/process/surface-treatment-and-salt-spray.md) - heat treatment, plating, and corrosion control
-- [Selection](docs/selection/by-industry.md) - scenario- and industry-based selection guides
-- [FAQ](docs/faq/fastener-faq.md) - high-frequency technical questions
+- [Knowledge hub](docs/index.md) — main docs entry, documentation map, and quick links
+- [Standards](docs/standards/index.md) — standard numbers, mappings, and interpretation
+- [Materials (section index)](docs/materials/index.md) — topic guides, by-standard-type index, and [datasheet layout template](docs/materials/standard-type/template.md)
+- [Carbon steel vs stainless steel](docs/materials/carbon-steel-vs-stainless-steel.md) — base material choice (topic guide)
+- [Process](docs/process/surface-treatment-and-salt-spray.md) — heat treatment, plating, and corrosion control
+- [Selection](docs/selection/by-industry.md) — scenario- and industry-based selection guides
+- [FAQ](docs/faq/fastener-faq.md) — high-frequency technical questions
 
 ## Typical Users
 
