@@ -18,6 +18,7 @@ Its purpose is to continuously publish high-quality technical content that impro
 
 - [Knowledge Hub Home](docs/index.md) - main docs entry
 - [Standards](docs/standards/index.md) - fastener standards and equivalence references
+- [Materials Index](docs/materials/index.md) - database-driven material category entry
 - [Materials](docs/materials/carbon-steel-vs-stainless-steel.md) - material performance and guidance
 - [Process](docs/process/surface-treatment-and-salt-spray.md) - heat treatment, plating, and corrosion control
 - [Selection](docs/selection/by-industry.md) - scenario- and industry-based selection guides

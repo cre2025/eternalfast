@@ -10,6 +10,7 @@ This page is the main entry to standards, material guides, process references, a
 
 - [Standards Index](./standards/index.md)
 - [DIN / ISO / ANSI Fastener Standards Quick Guide](./standards/din-iso-ansi-fastener-guide.md)
+- [Materials Index](./materials/index.md)
 - [Carbon Steel vs Stainless Steel Fasteners](./materials/carbon-steel-vs-stainless-steel.md)
 - [Fastener Surface Treatment and Salt Spray Basics](./process/surface-treatment-and-salt-spray.md)
 - [Fastener Selection Checklist](./selection/fastener-selection-checklist.md)
